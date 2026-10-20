@@ -14,7 +14,7 @@
 
 ## Proyectos destacados
 
-- **[Análisis de ingresos VTC](https://github.com/igmartinezamador-spec/analisis-ingresos-vtc)**: análisis de mis propios datos de conducción. Limpieza y validación en Python, 14 consultas SQL, resumen en Excel con tablas dinámicas y dashboard HTML con filtros. Los totales cuadran al céntimo con la app.
+- **[Análisis de ingresos VTC](https://github.com/igmartinezamador-spec/analisis-ingresos-vtc)**: análisis de ingresos por hora sobre 212 viajes de servicios de transporte. Limpieza y validación en Python, 14 consultas SQL, resumen en Excel con tablas dinámicas y dashboard HTML con filtros.
 - **[Alquiler turístico en Madrid](https://github.com/igmartinezamador-spec/airbnb-madrid-analisis)**: análisis descriptivo con datos públicos de Inside Airbnb.
 - **[Ventas de TheLook eCommerce](https://github.com/igmartinezamador-spec/thelook-analysis)**: SQL en BigQuery sobre datos sintéticos, con informe ejecutivo y dashboard.
 
